@@ -10,7 +10,8 @@ Minecraft Client made to be executed anywhere (especially USB Sticks and portabl
 - Preinstalled performance mods to target better framerates and stable gameplay.
 - Low RAM usage (Default 640Mb)
 - Recent Versions Supported (1.20.1 Latest as of now)
-  
+- Performance Presets such as Balanced and ultra_light
+
 # Compatible platforms:
 - Windows 10
 - Windows 11
